@@ -1,0 +1,14 @@
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\bin\Debug\net8.0\OOP_AdvanceConcepts.exe
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\bin\Debug\net8.0\OOP_AdvanceConcepts.deps.json
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\bin\Debug\net8.0\OOP_AdvanceConcepts.runtimeconfig.json
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\bin\Debug\net8.0\OOP_AdvanceConcepts.dll
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\bin\Debug\net8.0\OOP_AdvanceConcepts.pdb
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.AssemblyInfoInputs.cache
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.AssemblyInfo.cs
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.csproj.CoreCompileInputs.cache
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.dll
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\refint\OOP_AdvanceConcepts.dll
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.pdb
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\OOP_AdvanceConcepts.genruntimeconfig.cache
+D:\Projects\OOP_AdvanceConcepts\OOP_AdvanceConcepts\obj\Debug\net8.0\ref\OOP_AdvanceConcepts.dll
