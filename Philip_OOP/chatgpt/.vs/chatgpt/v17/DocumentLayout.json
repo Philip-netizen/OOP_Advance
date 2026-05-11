@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\TestOOP\\chatgpt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:libraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:libraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|d:\\projects\\testoop\\chatgpt\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE585B1-5A9E-41DE-B04D-CC6E1C47B103}|chatgpt.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,73 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LibraryService.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\LibraryService.cs",
               "RelativeDocumentMoniker": "LibraryService.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\LibraryService.cs",
               "RelativeToolTip": "LibraryService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T03:15:41.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ILibrary.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\ILibrary.cs",
               "RelativeDocumentMoniker": "ILibrary.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\ILibrary.cs",
               "RelativeToolTip": "ILibrary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T01:53:11.953Z"
+              "WhenOpened": "2026-05-11T01:53:11.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LibraryFactory.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\LibraryFactory.cs",
               "RelativeDocumentMoniker": "LibraryFactory.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\LibraryFactory.cs",
               "RelativeToolTip": "LibraryFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T09:35:51.168Z"
+              "WhenOpened": "2026-05-08T09:35:51.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LibraryRepository.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\LibraryRepository.cs",
               "RelativeDocumentMoniker": "LibraryRepository.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\LibraryRepository.cs",
               "RelativeToolTip": "LibraryRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T09:09:47.599Z"
+              "WhenOpened": "2026-05-07T09:09:47.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Magazine.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\Magazine.cs",
               "RelativeToolTip": "Magazine.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T08:53:34.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
@@ -116,19 +119,21 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T08:13:33.484Z"
+              "WhenOpened": "2026-05-07T08:13:33.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "D:\\Projects\\TestOOP\\chatgpt\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\LibraryItem.cs",
               "RelativeToolTip": "LibraryItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T08:08:13.223Z"
+              "WhenOpened": "2026-05-07T08:08:13.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,7 +143,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\TestOOP\\chatgpt\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAnwGAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwE4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T08:01:50.46Z",
               "EditorCaption": ""

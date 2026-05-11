@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 namespace chatgpt
 {
     //======== Factory Pattern =========
-    public static class LibraryFactory
+    public class LibraryFactory
     {
-        public static LibraryItem CrateLibararyItem(string type, int id, string title, string issueNumber = "", string author = "")
+        public LibraryItem CrateLibararyItem(string type, int id, string title, string issueNumber = "", string author = "")
         {
             return type.ToLower() switch
             {
