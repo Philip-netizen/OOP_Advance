@@ -1,0 +1,14 @@
+D:\Projects\TestOOP\chatgpt\bin\Debug\net8.0\chatgpt.exe
+D:\Projects\TestOOP\chatgpt\bin\Debug\net8.0\chatgpt.deps.json
+D:\Projects\TestOOP\chatgpt\bin\Debug\net8.0\chatgpt.runtimeconfig.json
+D:\Projects\TestOOP\chatgpt\bin\Debug\net8.0\chatgpt.dll
+D:\Projects\TestOOP\chatgpt\bin\Debug\net8.0\chatgpt.pdb
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.AssemblyInfoInputs.cache
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.AssemblyInfo.cs
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.csproj.CoreCompileInputs.cache
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.dll
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\refint\chatgpt.dll
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.pdb
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\chatgpt.genruntimeconfig.cache
+D:\Projects\TestOOP\chatgpt\obj\Debug\net8.0\ref\chatgpt.dll
