@@ -95,7 +95,6 @@ class Program
         int id = int.Parse(Console.ReadLine());
 
         service.BorrowItem(id);
-        Console.WriteLine("Library item borrowed successfully!");
     }
     static void ReturnLibraryItem(LibraryService service)
     {
@@ -103,7 +102,6 @@ class Program
         int id = int.Parse(Console.ReadLine());
 
         service.ReturnItem(id);
-        Console.WriteLine("Library item returned successfully!");
     }
     static void DisplayLibraryItemById(LibraryService service)
     {
